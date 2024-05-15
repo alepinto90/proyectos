@@ -1,0 +1,5 @@
+C:\Users\alepi\Documents\GitHub\proyectos\02.Clase\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alepi\Documents\GitHub\proyectos\02.Clase\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\02.Clase\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\alepi\Documents\GitHub\proyectos\02.Clase\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\02.Clase\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.sourcelink.json

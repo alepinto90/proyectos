@@ -1,0 +1,15 @@
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\bin\Debug\net8.0\Desafio1AlejandroPinto.exe
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\bin\Debug\net8.0\Desafio1AlejandroPinto.deps.json
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\bin\Debug\net8.0\Desafio1AlejandroPinto.runtimeconfig.json
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\bin\Debug\net8.0\Desafio1AlejandroPinto.dll
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\bin\Debug\net8.0\Desafio1AlejandroPinto.pdb
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\obj\Debug\net8.0\Desafio1AlejandroPinto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\obj\Debug\net8.0\Desafio1AlejandroPinto.AssemblyInfoInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\obj\Debug\net8.0\Desafio1AlejandroPinto.AssemblyInfo.cs
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\obj\Debug\net8.0\Desafio1AlejandroPinto.csproj.CoreCompileInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\obj\Debug\net8.0\Desafio1AlejandroPinto.sourcelink.json
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\obj\Debug\net8.0\Desafio1AlejandroPinto.dll
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\obj\Debug\net8.0\refint\Desafio1AlejandroPinto.dll
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\obj\Debug\net8.0\Desafio1AlejandroPinto.pdb
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\obj\Debug\net8.0\Desafio1AlejandroPinto.genruntimeconfig.cache
+C:\Users\alepi\Documents\GitHub\proyectos\01.Clase\Desafio1AlejandroPinto\obj\Debug\net8.0\ref\Desafio1AlejandroPinto.dll
