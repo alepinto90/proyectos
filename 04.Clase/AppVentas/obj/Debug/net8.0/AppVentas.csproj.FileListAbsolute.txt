@@ -1,0 +1,15 @@
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\bin\Debug\net8.0\AppVentas.exe
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\bin\Debug\net8.0\AppVentas.deps.json
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\bin\Debug\net8.0\AppVentas.runtimeconfig.json
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\bin\Debug\net8.0\AppVentas.dll
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\bin\Debug\net8.0\AppVentas.pdb
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.AssemblyInfoInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.AssemblyInfo.cs
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.csproj.CoreCompileInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.sourcelink.json
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.dll
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\obj\Debug\net8.0\refint\AppVentas.dll
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.pdb
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.genruntimeconfig.cache
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\AppVentas\obj\Debug\net8.0\ref\AppVentas.dll

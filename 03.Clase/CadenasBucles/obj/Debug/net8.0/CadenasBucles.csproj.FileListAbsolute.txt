@@ -1,0 +1,15 @@
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.exe
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.deps.json
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.runtimeconfig.json
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.dll
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.pdb
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.AssemblyInfoInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.AssemblyInfo.cs
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.csproj.CoreCompileInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.sourcelink.json
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.dll
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\obj\Debug\net8.0\refint\CadenasBucles.dll
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.pdb
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.genruntimeconfig.cache
+C:\Users\alepi\Documents\GitHub\proyectos\03.Clase\CadenasBucles\obj\Debug\net8.0\ref\CadenasBucles.dll

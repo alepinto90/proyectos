@@ -1,0 +1,15 @@
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\bin\Debug\net8.0\App1.exe
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\bin\Debug\net8.0\App1.deps.json
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\bin\Debug\net8.0\App1.runtimeconfig.json
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\bin\Debug\net8.0\App1.dll
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\bin\Debug\net8.0\App1.pdb
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\obj\Debug\net8.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\obj\Debug\net8.0\App1.AssemblyInfoInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\obj\Debug\net8.0\App1.AssemblyInfo.cs
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\obj\Debug\net8.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\obj\Debug\net8.0\App1.sourcelink.json
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\obj\Debug\net8.0\App1.dll
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\obj\Debug\net8.0\refint\App1.dll
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\obj\Debug\net8.0\App1.pdb
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\obj\Debug\net8.0\App1.genruntimeconfig.cache
+C:\Users\alepi\Documents\GitHub\proyectos\06.Clase\App1\obj\Debug\net8.0\ref\App1.dll

@@ -1,6 +1,6 @@
 ﻿//Variables
-
-int pass = 123456789;
+int pass = 123456789
+    ;
 int passIngresado;
 
 Console.WriteLine("Ingrese su perfil");

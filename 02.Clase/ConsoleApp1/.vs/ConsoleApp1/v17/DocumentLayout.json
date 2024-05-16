@@ -17,21 +17,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\02.Clase\\ConsoleApp3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ConsoleApp3\\Program.cs",
-              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\02.Clase\\ConsoleApp3\\Program.cs",
-              "RelativeToolTip": "..\\ConsoleApp3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T02:00:55.382Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -42,7 +29,22 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T05:05:28.911Z"
+              "WhenOpened": "2024-05-14T05:05:28.911Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\02.Clase\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\02.Clase\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:00:55.382Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

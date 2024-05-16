@@ -1,0 +1,15 @@
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\bin\Debug\net8.0\validarPass.exe
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\bin\Debug\net8.0\validarPass.deps.json
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\bin\Debug\net8.0\validarPass.runtimeconfig.json
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\bin\Debug\net8.0\validarPass.dll
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\bin\Debug\net8.0\validarPass.pdb
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\obj\Debug\net8.0\validarPass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\obj\Debug\net8.0\validarPass.AssemblyInfoInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\obj\Debug\net8.0\validarPass.AssemblyInfo.cs
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\obj\Debug\net8.0\validarPass.csproj.CoreCompileInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\obj\Debug\net8.0\validarPass.sourcelink.json
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\obj\Debug\net8.0\validarPass.dll
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\obj\Debug\net8.0\refint\validarPass.dll
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\obj\Debug\net8.0\validarPass.pdb
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\obj\Debug\net8.0\validarPass.genruntimeconfig.cache
+C:\Users\alepi\Documents\GitHub\proyectos\04.Clase\validarPass\obj\Debug\net8.0\ref\validarPass.dll
