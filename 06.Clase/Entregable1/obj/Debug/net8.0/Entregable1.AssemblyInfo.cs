@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Entregable1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14f2bb8031d704be26ecf5707a04d3e6a669bd67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+523cfacbab6e5e272a3d64f795053d34577803e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Entregable1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Entregable1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
