@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\11.Clase\\WinFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10B19BDF-C20D-4F4C-82FF-ACFA0E387BD8}|WinFormsApp1.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\11.clase\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{10B19BDF-C20D-4F4C-82FF-ACFA0E387BD8}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FBEFFE4E-1823-41D5-B411-ABD5AF4BD19D}|WinFormsApp1.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\11.clase\\winformsapp1\\database\\gestorbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEFFE4E-1823-41D5-B411-ABD5AF4BD19D}|WinFormsApp1.csproj|solutionrelative:database\\gestorbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEFFE4E-1823-41D5-B411-ABD5AF4BD19D}|WinFormsApp1.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\11.clase\\winformsapp1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEFFE4E-1823-41D5-B411-ABD5AF4BD19D}|WinFormsApp1.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEFFE4E-1823-41D5-B411-ABD5AF4BD19D}|WinFormsApp1.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\11.clase\\winformsapp1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEFFE4E-1823-41D5-B411-ABD5AF4BD19D}|WinFormsApp1.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEFFE4E-1823-41D5-B411-ABD5AF4BD19D}|WinFormsApp1.csproj|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\11.Clase\\WinFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBEFFE4E-1823-41D5-B411-ABD5AF4BD19D}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,18 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\11.Clase\\WinFormsApp1\\models\\Usuario.cs",
+              "RelativeDocumentMoniker": "models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\11.Clase\\WinFormsApp1\\models\\Usuario.cs",
+              "RelativeToolTip": "models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:44:56.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\11.Clase\\WinFormsApp1\\models\\Producto.cs",
+              "RelativeDocumentMoniker": "models\\Producto.cs",
+              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\11.Clase\\WinFormsApp1\\models\\Producto.cs",
+              "RelativeToolTip": "models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:44:38.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GestorBaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\11.Clase\\WinFormsApp1\\database\\GestorBaseDatos.cs",
+              "RelativeDocumentMoniker": "database\\GestorBaseDatos.cs",
+              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\11.Clase\\WinFormsApp1\\database\\GestorBaseDatos.cs",
+              "RelativeToolTip": "database\\GestorBaseDatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:41:56.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\11.Clase\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\11.Clase\\WinFormsApp1\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T23:10:52.701Z",
+              "WhenOpened": "2024-06-10T17:36:11.352Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

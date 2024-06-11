@@ -1,0 +1,8 @@
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\PreEntregaProyectoFinal\SistemaGestion\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.AssemblyReference.cache
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\PreEntregaProyectoFinal\SistemaGestion\obj\Debug\net6.0-windows\SistemaGestion.Form1.resources
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\PreEntregaProyectoFinal\SistemaGestion\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.GenerateResource.cache
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\PreEntregaProyectoFinal\SistemaGestion\obj\Debug\net6.0-windows\SistemaGestionUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\PreEntregaProyectoFinal\SistemaGestion\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfoInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\PreEntregaProyectoFinal\SistemaGestion\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfo.cs
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\PreEntregaProyectoFinal\SistemaGestion\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CoreCompileInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\PreEntregaProyectoFinal\SistemaGestion\obj\Debug\net6.0-windows\SistemaGestionUI.sourcelink.json

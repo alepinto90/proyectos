@@ -1,0 +1,12 @@
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\AppClientesEntities\bin\Debug\net6.0\AppClientesEntities.deps.json
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\AppClientesEntities\bin\Debug\net6.0\AppClientesEntities.dll
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\AppClientesEntities\bin\Debug\net6.0\AppClientesEntities.pdb
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.AssemblyInfoInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.AssemblyInfo.cs
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.csproj.CoreCompileInputs.cache
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.sourcelink.json
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.dll
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\AppClientesEntities\obj\Debug\net6.0\refint\AppClientesEntities.dll
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.pdb
+C:\Users\alepi\Documents\GitHub\proyectos\13.Clase\AppClientesEntities\obj\Debug\net6.0\ref\AppClientesEntities.dll
