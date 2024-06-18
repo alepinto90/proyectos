@@ -3,15 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C14F2094-6264-4201-8C99-B55D1562A27C}|AppClientes.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\13.clase\\appclientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F2094-6264-4201-8C99-B55D1562A27C}|AppClientes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F2094-6264-4201-8C99-B55D1562A27C}|AppClientes.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\13.clase\\appclientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C14F2094-6264-4201-8C99-B55D1562A27C}|AppClientes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D915E61-4A61-4398-9B87-30DA967C792F}|..\\AppClientesBussiness\\AppClientesBussiness.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\13.clase\\appclientesbussiness\\clientebussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27188A4B-0403-4BD7-A083-5174CC4A934A}|..\\WebApplication1\\WebApplication1.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\13.clase\\webapplication1\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{967C03B4-013A-468A-BEA5-8C112BCBBF6F}|..\\AppClientesData\\AppClientesData.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\13.clase\\appclientesdata\\clientedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -20,13 +12,12 @@
       "AbsoluteMoniker": "D:0:0:{F98764BB-D8D5-4561-86C6-145181BFDEF4}|..\\AppClientesEntities\\AppClientesEntities.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\13.clase\\appclientesentities\\appclientesentities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{967C03B4-013A-468A-BEA5-8C112BCBBF6F}|..\\AppClientesData\\AppClientesData.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\13.clase\\appclientesdata\\appclientesdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C14F2094-6264-4201-8C99-B55D1562A27C}|AppClientes.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\13.clase\\appclientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F2094-6264-4201-8C99-B55D1562A27C}|AppClientes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D915E61-4A61-4398-9B87-30DA967C792F}|..\\AppClientesBussiness\\AppClientesBussiness.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\13.clase\\appclientesbussiness\\appclientesbussiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98764BB-D8D5-4561-86C6-145181BFDEF4}|..\\AppClientesEntities\\AppClientesEntities.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\13.clase\\appclientesentities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C14F2094-6264-4201-8C99-B55D1562A27C}|AppClientes.csproj|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C14F2094-6264-4201-8C99-B55D1562A27C}|AppClientes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,11 +27,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppClientesEntities.csproj",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesEntities\\AppClientesEntities.csproj",
+              "RelativeDocumentMoniker": "..\\AppClientesEntities\\AppClientesEntities.csproj",
+              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesEntities\\AppClientesEntities.csproj",
+              "RelativeToolTip": "..\\AppClientesEntities\\AppClientesEntities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T00:25:05.299Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\WebApplication1\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication1\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\WebApplication1\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "..\\WebApplication1\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:16:16.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteData.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesData\\ClienteData.cs",
+              "RelativeDocumentMoniker": "..\\AppClientesData\\ClienteData.cs",
+              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesData\\ClienteData.cs",
+              "RelativeToolTip": "..\\AppClientesData\\ClienteData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:14:03.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientes\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -53,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientes\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -62,78 +93,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T00:32:39.197Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClienteBussiness.cs",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesBussiness\\ClienteBussiness.cs",
-              "RelativeDocumentMoniker": "..\\AppClientesBussiness\\ClienteBussiness.cs",
-              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesBussiness\\ClienteBussiness.cs",
-              "RelativeToolTip": "..\\AppClientesBussiness\\ClienteBussiness.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T00:29:08.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppClientesEntities.csproj",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesEntities\\AppClientesEntities.csproj",
-              "RelativeDocumentMoniker": "..\\AppClientesEntities\\AppClientesEntities.csproj",
-              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesEntities\\AppClientesEntities.csproj",
-              "RelativeToolTip": "..\\AppClientesEntities\\AppClientesEntities.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-11T00:25:05.299Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppClientesData.csproj",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesData\\AppClientesData.csproj",
-              "RelativeDocumentMoniker": "..\\AppClientesData\\AppClientesData.csproj",
-              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesData\\AppClientesData.csproj",
-              "RelativeToolTip": "..\\AppClientesData\\AppClientesData.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-11T00:24:59.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppClientesBussiness.csproj",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesBussiness\\AppClientesBussiness.csproj",
-              "RelativeDocumentMoniker": "..\\AppClientesBussiness\\AppClientesBussiness.csproj",
-              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesBussiness\\AppClientesBussiness.csproj",
-              "RelativeToolTip": "..\\AppClientesBussiness\\AppClientesBussiness.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-11T00:24:33.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClienteData.cs",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesData\\ClienteData.cs",
-              "RelativeDocumentMoniker": "..\\AppClientesData\\ClienteData.cs",
-              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesData\\ClienteData.cs",
-              "RelativeToolTip": "..\\AppClientesData\\ClienteData.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAgwBAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T00:00:28.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesEntities\\Cliente.cs",
-              "RelativeDocumentMoniker": "..\\AppClientesEntities\\Cliente.cs",
-              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\AppClientesEntities\\Cliente.cs",
-              "RelativeToolTip": "..\\AppClientesEntities\\Cliente.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAuwAwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:52:49.223Z"
             }
           ]
         }
