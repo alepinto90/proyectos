@@ -1,49 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\",
+  "WorkspaceRootPath": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{515BBBD3-F621-48B4-B669-3A34BF2B3B8E}|..\\SistemaGestionAPI\\SistemaGestionAPI.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\15.clase\\integradoapis\\sistemagestionapi\\controllers\\productovendidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestionAPI\\Controllers\\ProductoVendidoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\VentaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{515BBBD3-F621-48B4-B669-3A34BF2B3B8E}|..\\SistemaGestionAPI\\SistemaGestionAPI.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\15.clase\\integradoapis\\sistemagestionapi\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\15.clase\\integradoapis\\sistemagestion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\16.clase\\entregafinal\\sistemagestion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\ProductoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\15.clase\\integradoapis\\sistemagestion\\sistemagestionui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\16.clase\\entregafinal\\sistemagestion\\sistemagestionui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|solutionrelative:sistemagestionui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|solutionrelative:formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|solutionrelative:formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|solutionrelative:formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\formproductovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\formproductovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|solutionrelative:formproductovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\15.clase\\integradoapis\\sistemagestion\\formproductovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|c:\\users\\alepi\\documents\\github\\proyectos\\16.clase\\entregafinal\\sistemagestion\\formproductovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C18ACBB3-627D-44F4-B58A-96F964DB9EFF}|SistemaGestionUI.csproj|solutionrelative:formproductovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -57,6 +54,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\ProductoVendidoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestionAPI\\Controllers\\VentaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -73,9 +73,9 @@
               "DocumentIndex": 0,
               "Title": "ProductoVendidoController.cs",
               "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestionAPI\\Controllers\\ProductoVendidoController.cs",
-              "RelativeDocumentMoniker": "..\\SistemaGestionAPI\\Controllers\\ProductoVendidoController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\15.Clase\\IntegradoAPIs\\SistemaGestionAPI\\Controllers\\ProductoVendidoController.cs",
               "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestionAPI\\Controllers\\ProductoVendidoController.cs",
-              "RelativeToolTip": "..\\SistemaGestionAPI\\Controllers\\ProductoVendidoController.cs",
+              "RelativeToolTip": "..\\..\\..\\15.Clase\\IntegradoAPIs\\SistemaGestionAPI\\Controllers\\ProductoVendidoController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T02:50:47.817Z",
@@ -83,12 +83,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "VentaController.cs",
               "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestionAPI\\Controllers\\VentaController.cs",
-              "RelativeDocumentMoniker": "..\\SistemaGestionAPI\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\15.Clase\\IntegradoAPIs\\SistemaGestionAPI\\Controllers\\VentaController.cs",
               "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestionAPI\\Controllers\\VentaController.cs",
-              "RelativeToolTip": "..\\SistemaGestionAPI\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "..\\..\\..\\15.Clase\\IntegradoAPIs\\SistemaGestionAPI\\Controllers\\VentaController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T02:47:19.184Z"
@@ -98,52 +98,52 @@
               "DocumentIndex": 1,
               "Title": "VentaController.cs",
               "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\VentaController.cs",
-              "RelativeDocumentMoniker": "..\\..\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\VentaController.cs",
               "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\VentaController.cs",
-              "RelativeToolTip": "..\\..\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "..\\..\\..\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\VentaController.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T02:28:30.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "..\\..\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "..\\..\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "..\\..\\..\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\UsuarioController.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAlwCEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T02:28:06.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "ProductoVendidoController.cs",
               "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\ProductoVendidoController.cs",
-              "RelativeDocumentMoniker": "..\\..\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\ProductoVendidoController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\ProductoVendidoController.cs",
               "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\ProductoVendidoController.cs",
-              "RelativeToolTip": "..\\..\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\ProductoVendidoController.cs",
+              "RelativeToolTip": "..\\..\\..\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\ProductoVendidoController.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAlwCEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T02:27:48.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "..\\..\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\ProductoController.cs",
               "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "..\\..\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "..\\..\\..\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionAPI\\Controllers\\ProductoController.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T02:26:43.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "FormProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\FormProducto.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\FormProducto.cs",
               "RelativeDocumentMoniker": "FormProducto.cs",
               "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\PreEntregaProyectoFinal\\SistemaGestion\\FormProducto.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\..\\..\\13.Clase\\PreEntregaProyectoFinal\\SistemaGestion\\FormProducto.cs [Dise\u00F1o]",
@@ -152,9 +152,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "FormVentas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\FormVentas.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\FormVentas.cs",
               "RelativeDocumentMoniker": "FormVentas.cs",
               "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\PreEntregaProyectoFinal\\SistemaGestion\\FormVentas.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\..\\..\\13.Clase\\PreEntregaProyectoFinal\\SistemaGestion\\FormVentas.cs [Dise\u00F1o]",
@@ -163,11 +163,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\Program.cs",
+              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,21 +175,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "ProductoVendidoBussiness.cs",
               "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionBussiness\\ProductoVendidoBussiness.cs",
-              "RelativeDocumentMoniker": "..\\..\\PreEntregaProyectoFinal\\SistemaGestionBussiness\\ProductoVendidoBussiness.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionBussiness\\ProductoVendidoBussiness.cs",
               "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionBussiness\\ProductoVendidoBussiness.cs",
-              "RelativeToolTip": "..\\..\\PreEntregaProyectoFinal\\SistemaGestionBussiness\\ProductoVendidoBussiness.cs",
+              "RelativeToolTip": "..\\..\\..\\15.Clase\\PreEntregaProyectoFinal\\SistemaGestionBussiness\\ProductoVendidoBussiness.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAA9wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T02:41:25.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "FormUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\FormUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\FormUsuario.cs",
               "RelativeDocumentMoniker": "FormUsuario.cs",
               "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\PreEntregaProyectoFinal\\SistemaGestion\\FormUsuario.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\..\\..\\13.Clase\\PreEntregaProyectoFinal\\SistemaGestion\\FormUsuario.cs [Dise\u00F1o]",
@@ -198,11 +198,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "FormProductoVendido.cs",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\FormProductoVendido.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\FormProductoVendido.cs",
               "RelativeDocumentMoniker": "FormProductoVendido.cs",
-              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\FormProductoVendido.cs",
+              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\FormProductoVendido.cs",
               "RelativeToolTip": "FormProductoVendido.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAjwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,9 +211,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "FormProductoVendido.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\FormProductoVendido.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\FormProductoVendido.cs",
               "RelativeDocumentMoniker": "FormProductoVendido.cs",
               "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\PreEntregaProyectoFinal\\SistemaGestion\\FormProductoVendido.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\13.Clase\\PreEntregaProyectoFinal\\SistemaGestion\\FormProductoVendido.cs [Design]",
@@ -222,11 +222,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "SistemaGestionUI.csproj",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\SistemaGestionUI.csproj",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\SistemaGestionUI.csproj",
               "RelativeDocumentMoniker": "SistemaGestionUI.csproj",
-              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\SistemaGestionUI.csproj",
+              "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\SistemaGestionUI.csproj",
               "RelativeToolTip": "SistemaGestionUI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -234,9 +234,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\15.Clase\\IntegradoAPIs\\SistemaGestion\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\16.Clase\\EntregaFinal\\SistemaGestion\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\alepi\\Documents\\GitHub\\proyectos\\13.Clase\\PreEntregaProyectoFinal\\SistemaGestion\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\..\\..\\13.Clase\\PreEntregaProyectoFinal\\SistemaGestion\\Form1.cs [Dise\u00F1o]",
@@ -245,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
