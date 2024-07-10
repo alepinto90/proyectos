@@ -1,15 +1,16 @@
-﻿using SistemaGestionEntities;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SistemaGestionEntities;
 
 namespace SistemaGestionData
 {
     public class ProductoVendidoData
     {
+
         public static bool DeleteProductoVendido(int id)
         {
             string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
@@ -24,7 +25,7 @@ namespace SistemaGestionData
         }
         public static bool CreateProductoVendido(ProductoVendido productoVendido)
         {
-            string connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
+            string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
                 string query = "INSERT INTO ProductoVendido(Stock,IdProducto,IdVenta)" +
@@ -40,7 +41,7 @@ namespace SistemaGestionData
 
         public static ProductoVendido GetProductoVendidoByID(int id)
         {
-            string connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
+            string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 string query = "SELECT * FROM ProductoVendido WHERE Id = @id";
@@ -61,9 +62,9 @@ namespace SistemaGestionData
             }
         }
 
-        public static bool UpdateProductoVendido(int id, ProductoVendido productoVendido)
+        public static bool UpdateProductoVendido(ProductoVendido productoVendido)
         {
-            string connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
+            string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 string query = "UPDATE ProductoVendido SET Stock = @Stock, IdProducto = @IdProducto, IdVenta = @IdVenta WHERE Id = @id";
@@ -71,7 +72,7 @@ namespace SistemaGestionData
                 command.Parameters.AddWithValue("@Stock", productoVendido.Stock);
                 command.Parameters.AddWithValue("@IdProducto", productoVendido.IdProducto);
                 command.Parameters.AddWithValue("@IdVenta", productoVendido.IdVenta);
-                command.Parameters.AddWithValue("@id", id);
+                command.Parameters.AddWithValue("@id", productoVendido.Id);
                 connection.Open();
                 return command.ExecuteNonQuery() > 0;
             }
@@ -79,7 +80,7 @@ namespace SistemaGestionData
 
         public static List<ProductoVendido> GetProductoVendido()
         {
-            string connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
+            string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
             List<ProductoVendido> listaProductoVendido = new List<ProductoVendido>();
             using (SqlConnection connection = new SqlConnection(connectionString))
             {

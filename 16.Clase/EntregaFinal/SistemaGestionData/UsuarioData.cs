@@ -10,6 +10,7 @@ namespace SistemaGestionData
 {
     public class UsuarioData
     {
+
         public static bool DeleteUser(int id)
         {
             string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
@@ -25,7 +26,7 @@ namespace SistemaGestionData
 
         public static bool CreateUser(Usuario usuario)
         {
-            string connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
+            string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
                 string query = "INSERT INTO Usuario(Nombre, Apellido, NombreUsuario, Contraseña, Mail)" +
@@ -43,7 +44,7 @@ namespace SistemaGestionData
 
         public static Usuario GetUserByID(int id)
         {
-            string connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
+            string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 string query = "SELECT * FROM Usuario WHERE Id = @id";
@@ -66,9 +67,9 @@ namespace SistemaGestionData
             }
         }
 
-        public static bool UpdateUser(int id, Usuario usuario)
+        public static bool UpdateUser(Usuario usuario)
         {
-            string connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
+            string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 string query = "UPDATE Usuario SET Nombre = @nombre, Apellido = @apellido, NombreUsuario = @nombreUsuario, Contraseña = @contraseña, Mail = @mail WHERE Id = @id";
@@ -78,7 +79,7 @@ namespace SistemaGestionData
                 command.Parameters.AddWithValue("@nombreUsuario", usuario.NombreUsuario);
                 command.Parameters.AddWithValue("@contraseña", usuario.Contraseña);
                 command.Parameters.AddWithValue("@mail", usuario.Mail);
-                command.Parameters.AddWithValue("@id", id);
+                command.Parameters.AddWithValue("@id", usuario.Id);
                 connection.Open();
                 return command.ExecuteNonQuery() > 0;
             }
@@ -86,7 +87,7 @@ namespace SistemaGestionData
 
         public static List<Usuario> GetUsuario()
         {
-            string connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
+            string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
             List<Usuario> listaUsuarios = new List<Usuario>();
             using (SqlConnection connection = new SqlConnection(connectionString))
             {

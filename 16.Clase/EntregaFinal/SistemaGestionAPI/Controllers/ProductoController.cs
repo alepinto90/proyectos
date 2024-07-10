@@ -23,13 +23,13 @@ namespace SistemaGestionAPI.Controllers
         }
 
         [HttpDelete(Name = "DeleteProducto")]
-        public void Delete([FromBody] int id)
+        public void Delete([FromBody]int id)
         {
             ProductoBussiness.DeleteProducto(id);
         }
 
         [HttpPut(Name = "ModificarProducto")]
-        public void Put([FromBody] Producto producto)
+        public void Put([FromBody]Producto producto)
         {
             ProductoBussiness.UpdateProducto(producto);
         }

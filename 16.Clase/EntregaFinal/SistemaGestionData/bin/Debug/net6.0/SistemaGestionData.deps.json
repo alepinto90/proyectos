@@ -91,9 +91,6 @@
       },
       "System.Security.Principal.Windows/4.7.0": {},
       "SistemaGestionEntities/1.0.0": {
-        "dependencies": {
-          "System.Data.SqlClient": "4.8.6"
-        },
         "runtime": {
           "SistemaGestionEntities.dll": {}
         }

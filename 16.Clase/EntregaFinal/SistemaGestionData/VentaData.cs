@@ -1,15 +1,16 @@
-﻿using SistemaGestionEntities;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SistemaGestionEntities;
 
 namespace SistemaGestionData
 {
     public class VentaData
     {
+
         public static bool DeleteVenta(int id)
         {
             string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
@@ -25,7 +26,7 @@ namespace SistemaGestionData
 
         public static bool CreateVenta(Venta venta)
         {
-            string connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
+            string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
                 string query = "INSERT INTO Venta(Comentarios, IdUsuario)" +
@@ -40,7 +41,7 @@ namespace SistemaGestionData
 
         public static Venta GetVentaByID(int id)
         {
-            string connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
+            string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 string query = "SELECT * FROM Venta WHERE Id = @id";
@@ -60,16 +61,16 @@ namespace SistemaGestionData
             }
         }
 
-        public static bool UpdateVenta(int id, Venta venta)
+        public static bool UpdateVenta(Venta venta)
         {
-            string connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
+            string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 string query = "UPDATE Venta SET Comentarios = @Comentarios, IdUsuario = @IdUsuario WHERE Id = @id";
                 SqlCommand command = new SqlCommand(query, connection);
                 command.Parameters.AddWithValue("@Comentarios", venta.Comentarios);
                 command.Parameters.AddWithValue("@IdUsuario", venta.IdUsuario);
-                command.Parameters.AddWithValue("@id", id);
+                command.Parameters.AddWithValue("@id", venta.Id);
                 connection.Open();
                 return command.ExecuteNonQuery() > 0;
             }
@@ -77,7 +78,7 @@ namespace SistemaGestionData
 
         public static List<Venta> GetVenta()
         {
-            string connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
+            string connectionString = "Server=.;Database=SistemaGestion1;Trusted_Connection=True;";
             List<Venta> listaVenta = new List<Venta>();
             using (SqlConnection connection = new SqlConnection(connectionString))
             {

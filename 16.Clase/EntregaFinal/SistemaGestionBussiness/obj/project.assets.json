@@ -164,9 +164,6 @@
       "SistemaGestionEntities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "System.Data.SqlClient": "4.8.6"
-        },
         "compile": {
           "bin/placeholder/SistemaGestionEntities.dll": {}
         },

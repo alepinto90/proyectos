@@ -29,7 +29,7 @@ namespace SistemaGestionAPI.Controllers
         }
 
         [HttpPut(Name = "ModificarVenta")]
-        public void Put([FromBody] Venta venta)
+        public void Put([FromBody]Venta venta)
         {
             VentaBussiness.UpdateVenta(venta);
         }
